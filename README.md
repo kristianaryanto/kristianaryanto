@@ -23,7 +23,7 @@ Let me provide updated logos for **AWS**, **Airflow**, and **Spark** using relia
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Google_Cloud_Logo.svg" height="40" alt="GCP" />
 
 ### Big Data & Orchestration  
-<img src="[https://airflow.apache.org/_images/pin_large.png](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)" height="40" alt="Airflow" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Airflow" />  
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Spark" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
 
