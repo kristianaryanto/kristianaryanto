@@ -49,21 +49,41 @@ Here’s what I bring to the table:
 
 ### 1️⃣ [**GPT Bot Trading for BTC on Indodax**](https://github.com/yourusername/GPT_BOT_TRADING_BTC_INDODAX)  
 📈 **AI-Powered Automated Bitcoin Trading Bot**  
-- Utilized GPT-4o-mini to make real-time trading decisions on Indodax.  
-- Automated the entire trading process from data analysis to executing buy/sell orders.  
-- Future Enhancements: Stop-loss and margin trading integration.  
+- An automated trading bot that makes real-time trading decisions using **GPT-4o-mini** and executes buy/sell orders on the Indodax platform.  
+- Integrated APIs to retrieve market data, analyze trends, and implement a take-profit strategy, with plans for stop-loss and margin trading.  
+- Enhanced the trading process by leveraging AI-driven insights to optimize decision-making and performance.
 
-**Key Tech**: Python, Indodax API  
+**Key Tech**: Python, GPT-4, Indodax API  
 
 ---
 
 ### 2️⃣ [**Modern Data Flow Architecture**](https://github.com/yourusername/modern-data-flow)  
 🏗 **High-Performance, Scalable Data Pipelines**  
-- Built an architecture combining **Airflow**, **DuckDB**, and **dbt**.  
-- Delivered 6x faster processing times compared to legacy tools like SSIS.  
-- Highlight: Reduced operational costs while improving workflow reliability.  
+- Designed a modern data stack combining **Airflow**, **DuckDB**, and **dbt** to create efficient and scalable data pipelines.  
+- Delivered **6x faster execution times** compared to traditional tools like SSIS, with automated retries and workflow management using Airflow.  
+- Enabled seamless data ingestion and transformation from multiple data sources (**SQL Server**, **MySQL**, **PostgreSQL**) and back into analytics-ready databases.
 
-**Key Tech**: Airflow, DuckDB, dbt  
+**Key Tech**: Airflow, DuckDB, dbt, SQL Server, MySQL, PostgreSQL  
+
+---
+
+### 3️⃣ [**Kafka Cluster with Docker Swarm**](https://github.com/yourusername/kafka-cluster-docker-swarm)  
+🔗 **Fault-Tolerant Kafka Cluster Across Nodes**  
+- Deployed a highly available and fault-tolerant **Kafka Cluster** using **Docker Swarm** for orchestration and **ZooKeeper** for coordination.  
+- Integrated **Schema Registry** for managing data schemas and enabling scalable streaming across two nodes.  
+- Designed for seamless scaling and resilient operations in production environments.
+
+**Key Tech**: Docker Swarm, Kafka, ZooKeeper, Schema Registry  
+
+---
+
+### 4️⃣ [**Simply Big Data: Scalable Data Lake**](https://github.com/kristianaryanto/SimplyBigData-IcebergMinIO-SparkLake)  
+🗂 **Robust Data Lakehouse with Apache Iceberg & MinIO**  
+- Built a scalable data lakehouse architecture combining **Apache Iceberg** and **MinIO** for efficient data storage and management.  
+- Enabled **distributed data processing** using **Apache Spark** and interactive SQL-based querying through **DBeaver** and **Jupyter Notebook**.  
+- Designed to be cloud-ready, allowing seamless migration from MinIO to **AWS S3** or any S3-compatible service.
+
+**Key Tech**: Apache Iceberg, MinIO, Apache Spark, DBeaver, Jupyter Notebook  
 
 ---
 
