@@ -19,8 +19,7 @@ Let me provide updated logos for **AWS**, **Airflow**, and **Spark** using relia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 
 ### Cloud Platforms  
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="AWS" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Google_Cloud_Logo.svg" height="40" alt="GCP" />
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="AWS" /> <img src="https://www.logo.wine/a/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.svg" height="40" alt="GCP" />
 
 ### Big Data & Orchestration  
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Airflow" />  
@@ -30,7 +29,6 @@ Let me provide updated logos for **AWS**, **Airflow**, and **Spark** using relia
 ### Containers & CI/CD  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Podman_logo.svg/512px-Podman_logo.svg.png" height="40" alt="Podman" />
 
 ### Other Tools  
 - DuckDB  
