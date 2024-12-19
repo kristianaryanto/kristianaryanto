@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/f38c4a70-5ec3-454e-97b8-dc7143ccd6c8)Let me provide updated logos for **AWS**, **Airflow**, and **Spark** using reliable image sources. Here's the fixed version:
-
----
-
 # 👋 Hi, I'm Kristian Aryanto Wibowo!
 
 ### 🚀 Senior Data Engineer | Cloud Architect | Data Enthusiast  
@@ -19,16 +15,15 @@
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="80" alt="AWS" /> <img src="https://www.logo.wine/a/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.svg" height="80" alt="GCP" />
 
 ### Big Data & Orchestration  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="80" alt="Airflow" /> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="80" alt="Spark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="80" alt="Kafka" /><img src="https://github.com/user-attachments/assets/e742a8e3-e331-46a9-aa7a-1b0a812c2ca8" height="80" alt="Prefect" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="80" alt="Airflow" /> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="80" alt="Spark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="80" alt="Kafka" /> 
+<img src="https://github.com/user-attachments/assets/e742a8e3-e331-46a9-aa7a-1b0a812c2ca8" height="80" alt="Prefect" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" height="80" alt="DuckDB" />
+
 
 
 ### Containers & CI/CD  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="100" alt="Docker" />  
 ![image](https://github.com/user-attachments/assets/e742a8e3-e331-46a9-aa7a-1b0a812c2ca8)
 
-### Other Tools  
-- DuckDB  
-- Prefect  
 
 ---
 
@@ -90,6 +85,3 @@ Here’s what I bring to the table:
 - 🌐 Explore my projects on [GitHub](https://github.com/kristianaryanto)  
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/kristian-aryanto-wibowo)  
 
----
-
-Let me know if you’re happy with these images or if you’d like any additional tweaks! 😊
