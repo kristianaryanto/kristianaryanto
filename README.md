@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" alt="PostgreSQL" /> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="80" alt="SQL Server" /> <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="80" alt="BigQuery" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="MySQL" />
 
 ### Data Lake & Storage
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Apache_Iceberg_Logo.svg" height="80" alt="Apache Iceberg" /> <img src="https://avatars.githubusercontent.com/u/21374299?s=200&v=4" height="80" alt="MinIO" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Apache_Iceberg_Logo.svg" height="80" alt="Apache Iceberg" /> <img src="https://seeklogo.com/images/M/minio-logo-4B2D780928-seeklogo.com.png" height="80" alt="MinIO" />
 
 
 ### Cloud Platforms  
