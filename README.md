@@ -12,10 +12,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python" /> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="80" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="80" alt="Bash" />
 
 ### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" alt="PostgreSQL" /> <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Microsoft_SQL_Server_Logo.png" height="80" alt="SQL Server" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_BigQuery_Logo.png" height="80" alt="BigQuery" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" alt="PostgreSQL" /> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="80" alt="SQL Server" /> <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="80" alt="BigQuery" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="MySQL" />
 
 ### Data Lake & Storage
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Apache_Iceberg_Logo.png" height="80" alt="Apache Iceberg" /> <img src="https://avatars.githubusercontent.com/u/21374299?s=200&v=4" height="80" alt="MinIO" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Apache_Iceberg_Logo.svg" height="80" alt="Apache Iceberg" /> <img src="https://avatars.githubusercontent.com/u/21374299?s=200&v=4" height="80" alt="MinIO" />
 
 
 ### Cloud Platforms  
