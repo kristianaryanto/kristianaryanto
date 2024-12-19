@@ -1,4 +1,4 @@
-Got it! I'll embed the technology logos with direct URLs to their official or popular sources. Here's the revised README with proper image embedding for technology logos:
+Let me provide updated logos for **AWS**, **Airflow**, and **Spark** using reliable image sources. Here's the fixed version:
 
 ---
 
@@ -19,13 +19,13 @@ Got it! I'll embed the technology logos with direct URLs to their official or po
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 
 ### Cloud Platforms  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="AWS" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Google_Cloud_Logo.svg" height="40" alt="GCP" />
 
 ### Big Data & Orchestration  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" height="40" alt="Airflow" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Spark_logo.svg" height="40" alt="Spark" />
+<img src="https://airflow.apache.org/_images/pin_large.png" height="40" alt="Airflow" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Spark" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
 
 ### Containers & CI/CD  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />  
@@ -98,4 +98,4 @@ Here’s what I bring to the table:
 
 ---
 
-Does this look closer to what you want? Let me know if you want additional tweaks! 😊
+Let me know if you’re happy with these images or if you’d like any additional tweaks! 😊
