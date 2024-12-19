@@ -13,13 +13,10 @@ Let me provide updated logos for **AWS**, **Airflow**, and **Spark** using relia
 ## 🛠️ Technologies & Expertise  
 
 ### Programming Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="80" alt="Bash" />
 
 ### Cloud Platforms  
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="AWS" /> <img src="https://www.logo.wine/a/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.svg" height="40" alt="GCP" />
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="80" alt="AWS" /> <img src="https://www.logo.wine/a/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.svg" height="80" alt="GCP" />
 
 ### Big Data & Orchestration  
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Airflow" />  
