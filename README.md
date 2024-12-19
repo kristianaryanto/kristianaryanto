@@ -22,15 +22,14 @@
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="80" alt="AWS" /> <img src="https://www.logo.wine/a/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.svg" height="80" alt="GCP" />
 
 ### Big Data & Orchestration  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="80" alt="Airflow" /> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="80" alt="Spark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="80" alt="Kafka" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="80" alt="Airflow" /> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="80" alt="Spark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="80" alt="Kafka"/> 
+
 <img src="https://github.com/user-attachments/assets/e742a8e3-e331-46a9-aa7a-1b0a812c2ca8" height="80" alt="Prefect" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" height="80" alt="DuckDB" />
 
 
 
 ### Containers & CI/CD  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="100" alt="Docker" />  
-![image](https://github.com/user-attachments/assets/e742a8e3-e331-46a9-aa7a-1b0a812c2ca8)
-
 
 ---
 
