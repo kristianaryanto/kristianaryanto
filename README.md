@@ -30,6 +30,7 @@
 
 ### Containers & CI/CD  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="100" alt="Docker" />  
+<img src="https://svgmix.com/uploads/260df5-dockerswarm.svg" height="100" alt="Docker Swarm" />  
 
 ---
 
