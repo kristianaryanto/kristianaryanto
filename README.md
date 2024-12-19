@@ -1,4 +1,4 @@
-To include technology logos in your GitHub profile, you can use shields.io badges or embed small images. Below is the revised version of your README with technology logos added for better visual appeal:
+Got it! I'll embed the technology logos with direct URLs to their official or popular sources. Here's the revised README with proper image embedding for technology logos:
 
 ---
 
@@ -13,32 +13,28 @@ To include technology logos in your GitHub profile, you can use shields.io badge
 ## 🛠️ Technologies & Expertise  
 
 ### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 
 ### Cloud Platforms  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
 
 ### Big Data & Orchestration  
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/-Prefect-DB7093?logo=prefect&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/-DuckDB-FFCA28?logo=duckdb&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" height="40" alt="Airflow" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Spark_logo.svg" height="40" alt="Spark" />
 
 ### Containers & CI/CD  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Podman](https://img.shields.io/badge/-Podman-8921FF?logo=podman&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Podman_logo.svg/512px-Podman_logo.svg.png" height="40" alt="Podman" />
 
-### Specialties  
-- **Scalable Data Pipelines**
-- **ETL/ELT Systems**
-- **MLOps**
-- **Graph Data Science**
+### Other Tools  
+- DuckDB  
+- Prefect  
 
 ---
 
@@ -59,4 +55,47 @@ Here’s what I bring to the table:
 📈 **AI-Powered Automated Bitcoin Trading Bot**  
 - Utilized GPT-4o-mini to make real-time trading decisions on Indodax.  
 - Automated the entire trading process from data analysis to executing buy/sell orders.  
-- Future Enhancements: Stop-loss and margin
+- Future Enhancements: Stop-loss and margin trading integration.  
+
+**Key Tech**: Python, Indodax API  
+
+---
+
+### 2️⃣ [**Modern Data Flow Architecture**](https://github.com/yourusername/modern-data-flow)  
+🏗 **High-Performance, Scalable Data Pipelines**  
+- Built an architecture combining **Airflow**, **DuckDB**, and **dbt**.  
+- Delivered 6x faster processing times compared to legacy tools like SSIS.  
+- Highlight: Reduced operational costs while improving workflow reliability.  
+
+**Key Tech**: Airflow, DuckDB, dbt  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **B.Sc. Physics** - Diponegoro University (2018–2024)  
+
+### 📜 Certifications  
+- **TensorFlow Developer Certificate** - Google  
+- **Neo4j Certified Professional**  
+- **Neo4j Graph Data Science Certification**  
+- **TigerGraph Certified Professional**
+
+---
+
+## 🚀 GitHub Stats  
+
+![Kristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristianaryanto&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianaryanto&layout=compact&theme=radical)
+
+---
+
+## 💬 Let’s Connect  
+
+- 📫 Reach me at [a.wkristian2@gmail.com](mailto:a.wkristian2@gmail.com)  
+- 🌐 Explore my projects on [GitHub](https://github.com/kristianaryanto)  
+- 💼 Connect on [LinkedIn](https://linkedin.com/in/kristian-aryanto-wibowo)  
+
+---
+
+Does this look closer to what you want? Let me know if you want additional tweaks! 😊
