@@ -47,7 +47,7 @@ Here’s what I bring to the table:
 
 ## 🌟 Featured Projects  
 
-### 1️⃣ [**GPT Bot Trading for BTC on Indodax**](https://github.com/yourusername/GPT_BOT_TRADING_BTC_INDODAX)  
+### 1️⃣ [**GPT Bot Trading for BTC on Indodax**](https://github.com/kristianaryanto/GPT_BOT_TRADING_BTC_INDODAX)  
 📈 **AI-Powered Automated Bitcoin Trading Bot**  
 - An automated trading bot that makes real-time trading decisions using **GPT-4o-mini** and executes buy/sell orders on the Indodax platform.  
 - Integrated APIs to retrieve market data, analyze trends, and implement a take-profit strategy, with plans for stop-loss and margin trading.  
@@ -57,7 +57,7 @@ Here’s what I bring to the table:
 
 ---
 
-### 2️⃣ [**Modern Data Flow Architecture**](https://github.com/yourusername/modern-data-flow)  
+### 2️⃣ [**Modern Data Flow Architecture**](https://github.com/kristianaryanto/DuckDBDAGs)  
 🏗 **High-Performance, Scalable Data Pipelines**  
 - Designed a modern data stack combining **Airflow**, **DuckDB**, and **dbt** to create efficient and scalable data pipelines.  
 - Delivered **6x faster execution times** compared to traditional tools like SSIS, with automated retries and workflow management using Airflow.  
@@ -67,7 +67,7 @@ Here’s what I bring to the table:
 
 ---
 
-### 3️⃣ [**Kafka Cluster with Docker Swarm**](https://github.com/yourusername/kafka-cluster-docker-swarm)  
+### 3️⃣ [**Kafka Cluster with Docker Swarm**](https://github.com/kristianaryanto/confluent-multi-node-kafka)  
 🔗 **Fault-Tolerant Kafka Cluster Across Nodes**  
 - Deployed a highly available and fault-tolerant **Kafka Cluster** using **Docker Swarm** for orchestration and **ZooKeeper** for coordination.  
 - Integrated **Schema Registry** for managing data schemas and enabling scalable streaming across two nodes.  
